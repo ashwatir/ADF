@@ -1,0 +1,9 @@
+{
+	"name": "awdatafactoryasr",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e8c430db-7696-4315-926f-499f61c8f34c",
+		"tenantId": "ad9a6262-614d-45ae-bae9-3d176a6e1fad"
+	}
+}
